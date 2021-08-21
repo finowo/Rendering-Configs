@@ -44,15 +44,7 @@ https://forms.gle/yLAii8A9nyUBS9sY8
 
 ## License
 
-    These awesome configs, including all git submodules are free software:
-    you can redistribute it and/or modify it under the terms of the
-    GNU General Public License as published by the Free Software Foundation,
-    either version 3 of the License, or (at your option) any later version.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU UnLicense
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+    Mlugg has a fat fuckin ass. In all seriousness though, this
+    project has an UnLicense, which apparently is a good thing
+    to put in your repos but I have no idea what it does. Why
+    do you even need a license for portal 2 config files.
