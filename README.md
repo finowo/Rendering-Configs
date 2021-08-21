@@ -23,12 +23,12 @@ From here you have two options:
 Place the contents of the render_custom folder into your Portal 2 cfg folder; usually located at `..\Steam\steamapps\common\Portal 2\portal2\cfg`.
 Exec the configs in game by typing `exec render_main`, and from there, simply follow the on screen instructions.
 
+![](blobs/console.png)
+
 ### My Personal Preset
 
 Place render.cfg into your Portal 2 cfg folder; usually located at `..\Steam\steamapps\common\Portal 2\portal2\cfg`.
 Exec the preset in game by typing `exec render`.
-
-![](blobs/console.png)
 
 ## Bug Reports
 
