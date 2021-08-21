@@ -37,6 +37,11 @@ Open an issue here on github.<br>
 Contact me on discord at fin#6129.<br>
 Cry about it.
 
+## Make me render the demo for you
+
+Don't abuse this too much, I have a life (no I don't lol)<br>
+https://forms.gle/yLAii8A9nyUBS9sY8
+
 ## License
 
     These awesome configs, including all git submodules are free software:
