@@ -1,4 +1,4 @@
-# Rendering-Configs
+# rendering-configs
 
 Easy to use rendering configs for Portal 2 demos.
 
