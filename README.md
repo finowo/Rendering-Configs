@@ -34,7 +34,7 @@ Exec the preset in game by typing `exec render`.
 
 **Only bug reports from Main Configs will be accepted.**<br>
 Open an issue here on github.<br>
-Contact me on discord at fin#6129.<br>
+Contact me on discord at fin#1290.<br>
 Cry about it.
 
 ## Make me render the demo for you
