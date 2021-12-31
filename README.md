@@ -39,8 +39,7 @@ Cry about it.
 
 ## Make me render the demo for you
 
-Don't abuse this too much, I have a life (no I don't lol)<br>
-https://forms.gle/yLAii8A9nyUBS9sY8
+No. These configs are literally idiot proof. Read the fucking instructions. 
 
 ## License
 
